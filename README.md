@@ -5,8 +5,11 @@ This is a single-page application built with Next.js and Tailwind CSS for displa
 ### Features
 
 - Display all posts on the home page (/).
+![postlist](https://github.com/ziyad1412/blog_nextjs/assets/72376708/bbab5de1-d936-4f75-bd1f-fb509bf8c7ce)
 - View detailed information about a post, including comments and author, on the post detail page (/post/:id).
+![postdetail](https://github.com/ziyad1412/blog_nextjs/assets/72376708/7a6b5fc3-2068-499b-b297-7b35b001b08d)
 - List all users with CRUD operations (Create, Read, Update, Delete) on the users page (/users).
+![users](https://github.com/ziyad1412/blog_nextjs/assets/72376708/17e0f067-2908-42c4-937d-70c6938e6790)
 - Pagination to navigate through large datasets.
 - Responsive design for optimal viewing on various devices.
 
@@ -58,7 +61,7 @@ Follow these steps to run the application locally:
 
 ### Deployment
 
-The application is deployed using Vercel. You can access the deployed version [here](https://blog-app.vercel.app/).
+The application is deployed using Vercel. You can access the deployed version [here](https://blog-nextjs-ziyad.vercel.app/).
 
 ### Additional Notes
 
